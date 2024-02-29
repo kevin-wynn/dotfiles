@@ -1,16 +1,16 @@
 [window]
 dimensions = { columns = 165, lines = 50 }
-padding = { x = 2, y = 2 }
+padding = { x = 10, y = 10 }
 # put this back once im more familiar and comfortable
 #decorations = "None"
 opacity = 0.8
 blur = true
 
 [font]
-normal = { family = "Hack Nerd Font", style = "Regular" }
-bold = { family = "Hack Nerd Font", style = "Bold" }
-italic = { family = "Hack Nerd Font", style = "Italic" }
-bold_italic = { family = "Hack Nerd Font", style = "Bold Italic" }
+normal = { family = "Hasklug Nerd Font", style = "Regular" }
+bold = { family = "Hasklug Nerd Font", style = "Bold" }
+italic = { family = "Hasklug Nerd Font", style = "Italic" }
+bold_italic = { family = "Hasklug Nerd Font", style = "Bold Italic" }
 
 # Colors (Gruvbox Material Medium Dark)
 
@@ -43,5 +43,4 @@ white   = '#d4be98'
 
 [mouse]
 hide_when_typing = true
-
 
